@@ -1,0 +1,7 @@
+{
+  "jsonpaths": [
+    "$.detail.uuid",
+    "$.detail.action",
+    "$.detail.timestamp"
+  ]
+}
